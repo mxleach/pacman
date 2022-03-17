@@ -32,4 +32,6 @@ This function needs the diresction, imageWidth, pos, and pageWidth to work
 This function will change the Pacman's direction when it hits one of the edges. 
 
 
-## Link to Pacman GitPage:
+## Link to Pacman GitPage: https://mxleach.github.io/Pacman/
+
+Note: try entering link manually if this doesn't work on click. 
