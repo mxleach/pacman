@@ -25,9 +25,9 @@ Finally, setTimeout is called with the Run function with the parameter of 200ms.
 ### checkPageBounds Function:
 This function needs the direction, imageWidth, pos, and pageWidth to work 
 * direction: the current direction the images is moving to (0 or 1). 
-* imageWidth: the width of the image in integer. 
+* imageWidth: the width of the image as an integer. 
 * pos: the current position of the image in the document 
-* pageWidth: the window inner width.
+* pageWidth: inner width of window.
 
 This function will change the Pacman's direction when it hits one of the edges. 
 
